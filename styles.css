@@ -1,0 +1,50 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper {
+    width: 785px;
+    background-color: lightgray;
+}
+
+.wrapper1, .wrapper2 {
+    text-align: center;
+}
+
+.wrapper1 {
+    padding-top: 20px;
+}
+
+.wrapper2 {
+    padding-bottom: 20px;
+}
+
+.github, .catninja{
+    width: 100px;
+    display: inline-block;
+    background-color: white;
+}
+
+h1 {
+    display: inline;
+}
+
+.catimages1, .catimages2 {
+    height: 100px;
+}
+
+.catimages1 {
+    background-color : salmon;
+	padding:10px 15px 12px 15px;
+	border: 3px solid black;
+	margin:1px;
+}
+
+.catimages2 {
+    background-color: skyblue;
+	padding:10px 15px 12px 15px;
+	border: 3px solid black;
+	margin:1px; 
+}
